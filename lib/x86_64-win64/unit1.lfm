@@ -1,0 +1,9 @@
+object Form1: TForm1
+  Left = 38
+  Height = 240
+  Top = 294
+  Width = 320
+  Caption = 'Form1'
+  OnDestroy = FormDestroy
+  LCLVersion = '2.0.10.0'
+end
